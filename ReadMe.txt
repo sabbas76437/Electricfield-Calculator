@@ -1,0 +1,2 @@
+The purpose of this application is to calculate the electric field with diffrent points and charges. The language used is Java and the Object Oriented Principles are applied.
+With the input file the program will tokenize the data and will use to calculate electricfield, as well as the resultant field.
